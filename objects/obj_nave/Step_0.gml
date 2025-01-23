@@ -82,13 +82,13 @@ if keyboard_check_pressed(ord("X")) and global.powerBomb>0{
 	global.subPowerBomb++
 }
 
-if keyboard_check_pressed(ord("C")) and global.powerShield>0 and !global.shield{
-	global.shield = true
+//if keyboard_check_pressed(ord("C")) and global.powerShield>0 and !global.shield{
+//	global.shield = true
 	
-	scr_sound(snd_BombInit, 1, 0)
-	global.subPowerShield++
-}
-image_index = global.shield
+//	scr_sound(snd_BombInit, 1, 0)
+//	global.subPowerShield++
+//}
+//image_index = global.shield
 
 
 if global.life <= 0/* and !global.imortal*/{

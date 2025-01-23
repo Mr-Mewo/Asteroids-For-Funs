@@ -105,9 +105,9 @@ function scr_drawUI() {
 	if global.powerBomb>0{
 		draw_text(obj_powerBomb.x-4+shakeToPowerSpecialX, obj_powerBomb.y-4+shakeToPowerSpecialY, global.powerBomb)
 	}
-	if global.powerShield>0{
-		draw_text(obj_powerShield.x-4+shakeToPowerSpecialX, obj_powerShield.y-4+shakeToPowerSpecialY, global.powerShield)
-	}
+	//if global.powerShield>0{
+	//	draw_text(obj_powerShield.x-4+shakeToPowerSpecialX, obj_powerShield.y-4+shakeToPowerSpecialY, global.powerShield)
+	//}
 
 
 	#endregion
