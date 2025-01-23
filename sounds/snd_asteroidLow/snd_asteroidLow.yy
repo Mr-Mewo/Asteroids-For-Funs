@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_asteroidLow",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.376519,
+  "name":"snd_asteroidLow",
+  "parent":{
+    "name":"explosion",
+    "path":"folders/Sounds/explosion.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_asteroidLow.wav",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_speedCreate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_speedCreate",
+  "parent":{
+    "name":"pause",
+    "path":"folders/Scripts/pause.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

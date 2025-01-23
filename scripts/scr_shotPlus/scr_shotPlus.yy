@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_shotPlus",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_shotPlus",
+  "parent":{
+    "name":"shot",
+    "path":"folders/Scripts/shot.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
