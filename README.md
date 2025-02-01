@@ -10,4 +10,4 @@ But I don't regret making this game at all ƪ(˘ ⌣ ˘)ʃ
 
 Link to the itch.io page.
 
-[link](https://mr-mewo.itch.io/asteroids-for-funs)
+[https://mr-mewo.itch.io/asteroids-for-funs](https://mr-mewo.itch.io/asteroids-for-funs)
